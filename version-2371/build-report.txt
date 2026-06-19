@@ -1,9 +1,0 @@
-movies_parsed: 2000
-detail_pages: 2000
-category_items: 2000
-category_pages: 10
-jpg_files_in_zip_source: 0
-baidu_in_index: True
-baidu_in_detail_sample: True
-player_in_detail_sample: True
-logo_ok: True
